@@ -1,0 +1,12 @@
+📚 Learning Microsoft Defender – My Self-Study Journey
+
+Over the last few weeks, I’ve been diving deep into the Microsoft Defender ecosystem on my own time. What started as “just checking out Windows Defender” quickly opened up a whole world of security tools:
+
+🔹 Defender for Endpoint – EDR, attack surface reduction rules, automated investigation & remediation.
+🔹 Defender for Identity – spotting lateral movement and credential misuse.
+🔹 Defender for Office 365 – phishing and malware protection across mail & collaboration.
+🔹 Defender for Cloud – security posture management for Azure, AWS and GCP.
+
+I’m fascinated by how all of this integrates into Microsoft 365 Defender and Sentinel to give a unified view of threats. It’s powerful stuff, and it’s been a great self-study project to understand how XDR actually works in the real world.
+
+If you’re also exploring Microsoft security tools, what resources or tips helped you the most?
